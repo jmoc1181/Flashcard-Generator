@@ -23,7 +23,7 @@ cards.push(card5);
 
 
 function studyCards() {
-	//recursion loop 
+	//recursion 
 	if(cardCount < cards.length) {
 
 				inquirer.prompt([
